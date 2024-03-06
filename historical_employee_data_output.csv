@@ -1,0 +1,6 @@
+Employee Code,Manager Employee Code,Last Compensation,Compensation,Last Pay Raise Date,Variable Pay,Tenure in Org,Performance Rating,Engagement Score,Effective Date,End Date
+1,,20000.0,,,,,,,2021-01-01 00:00:00,2020-12-31
+2,1.0,20000.0,10000.0,2022-01-01,,,,,2021-01-01 00:00:00,2020-12-31
+2,1.0,10000.0,20000.0,2023-01-01,,,,,2023-01-01,2020-12-31
+3,1.0,20000.0,10000.0,2022-01-01,,,,,2021-01-01 00:00:00,2100-01-01
+3,1.0,10000.0,20000.0,2023-01-01,,,,,2023-01-01,2100-01-01
